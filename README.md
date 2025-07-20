@@ -1,16 +1,20 @@
-## Hi there 👋
+👩‍💻 Şive Özdemir
+Merhaba! Ben Şive.
+Bioinformatik ve Genetik mezunuyum, birkaç yıl turizm sektöründe çalıştıktan sonra tutkumu izleyerek yazılım dünyasına adım attım.
+Back-end geliştirme alanında ASP.NET Core ve C# ile uygulamalar geliştiriyorum ve bu alandaki yetkinliğimi artırmaya devam ediyorum. Aynı zamanda farklı alanlardaki merakımı yazılımla birleştirme yolları arıyorum.
+Disiplinler arası düşünebilmeyi, yaratıcı çözümler üretmeyi ve sürekli öğrenmeyi seviyorum.
+Yazılımı, düşünceyi yapılandırmanın ve hayata geçirmenin güçlü bir yolu olarak görüyorum.
 
-<!--
-**siveozdemir6/siveozdemir6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎯 İlgi Alanlarım
+🧩 ASP.NET Core MVC
+🔗 Web API
+💻 C#
+🛠️ Backend geliştirme
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Bana Ulaşın
+📧 E-posta: siveozdemir6@gmail.com
+
+💼 LinkedIn: linkedin.com/in/siveozdemir
+
+
