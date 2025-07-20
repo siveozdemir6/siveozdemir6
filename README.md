@@ -17,7 +17,7 @@ Yazılımı, düşünceyi yapılandırmanın ve hayata geçirmenin güçlü bir 
 
 ## 📬 Bana Ulaşın  
 - 📧 **E-posta**: siveozdemir6@gmail.com  
-- 💼 **LinkedIn**: https://linkedin.com/in/siveozdemir
+- 💼 **LinkedIn**: https://linkedin.com/in/şiveözdemir
 
 
 
